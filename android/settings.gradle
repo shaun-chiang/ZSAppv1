@@ -1,0 +1,3 @@
+rootProject.name = 'ZSAppv1'
+
+include ':app'
